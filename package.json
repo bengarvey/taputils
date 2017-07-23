@@ -1,6 +1,6 @@
 {
   "name": "taputils",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Utility functions for singer.io",
   "main": "main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bengarvey/TapUtils.git"
+    "url": "https://github.com/bengarvey/taputils.git"
   },
   "author": "Ben Garvey ben@bengarvey.com",
   "license": "MIT"
